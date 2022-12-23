@@ -1,5 +1,0 @@
-valor_total = float(input('Digite o valor total: '))
-print(f'Total a pagar com 10% de desconto: R$ {valor_total * 0.90}')
-print(f'Valor de cada parcela (3X sem juros): R$ {valor_total / 3}')
-print(f'Comissão do vendendor (à vista): R$ {valor_total * 0.90 * 0.05}')
-print(f'Comissão do vendendor (parcelado): R$ {valor_total * 0.05}')
